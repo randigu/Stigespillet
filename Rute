@@ -1,0 +1,4 @@
+int nummer;
+char type;
+boolean opptatt;
+Player iRute
